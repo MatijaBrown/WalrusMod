@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "misc",
+  "ingredients": [
+    {
+      "item": "walrusmod:cornflake_block"
+    }
+  ],
+  "result": {
+    "item": "walrusmod:cornflake",
+    "count": 9
+  }
+}

@@ -1,0 +1,17 @@
+modLoader="javafml"
+loaderVersion="[44,)"
+license="MIT"
+
+[[mods]]
+modId="walrusmod"
+version="1.0"
+displayName="Walrus Mod"
+logoFile="examplemod.png"
+credits="Thanks for this example mod goes to Edgar Alan Poe"
+authors="John Lennon, George Harrison, Ringo Star and Paul McCartney"
+
+description='''
+I am you as you are me as you are we as we are all together,
+See how they run like pigs from a gun see how they run,
+I'm crying.
+'''

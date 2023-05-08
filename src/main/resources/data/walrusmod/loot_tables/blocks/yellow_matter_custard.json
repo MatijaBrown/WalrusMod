@@ -1,0 +1,13 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "walrusmod:yellow_matter_custard"
+        }
+      ]
+    }
+  ]
+}

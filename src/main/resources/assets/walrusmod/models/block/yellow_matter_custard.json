@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/cube_all",
+	"textures": {
+		"all": "walrusmod:block/yellow_matter_custard"
+	}
+}

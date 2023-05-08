@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "misc",
+  "ingredients": [
+    {
+      "item": "walrusmod:sweetcorn"
+    }
+  ],
+  "result": {
+    "item": "walrusmod:sweetcorn_seeds",
+    "count": 8
+  }
+}

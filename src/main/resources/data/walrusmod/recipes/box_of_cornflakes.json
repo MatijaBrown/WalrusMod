@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "misc",
+  "ingredients": [
+    {
+      "item": "walrusmod:cornflake"
+    },
+    {
+      "item": "walrusmod:cornflake"
+    },
+    {
+      "item": "walrusmod:cornflake"
+    },
+    {
+      "item": "minecraft:paper"
+    }
+  ],
+  "result": {
+    "item": "walrusmod:box_of_cornflakes",
+    "count": 1
+  }
+}
